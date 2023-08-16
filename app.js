@@ -6,7 +6,7 @@ const bodyParser = require("body-parser");
 const cors = require("cors");
 
 app.use(cors({
-  origin: ['https://star-games-roan.vercel.app/',],
+  origin: ['https://star-games-amber.vercel.app/',],
   credentials: true
 }));
 
